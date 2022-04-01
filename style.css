@@ -203,7 +203,7 @@ p {
     max-width: 30%;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 800px) {
     .work:nth-of-type(2n-1) {
         margin-top: 100px;
     }
@@ -221,7 +221,7 @@ p {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .topnav a:not(:first-child) {
         display: none;
     }
@@ -280,7 +280,7 @@ p {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .topnav.responsive {
         position: relative;
     }
