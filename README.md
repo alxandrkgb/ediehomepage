@@ -10,11 +10,7 @@
   <h3>
     <a href="https://ediehomepage-devchallenges.netlify.app/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://ediehomepage-devchallenges.netlify.app/">
-      Solution
-    </a>
+    </a>    
     <span> | </span>
     <a href="https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0">
       Challenge
